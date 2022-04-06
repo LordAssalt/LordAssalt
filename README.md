@@ -1,16 +1,32 @@
-### Hi there 👋
+# Alex Carluccio, Master Degree Student
 
-<!--
-**LordAssalt/LordAssalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ReadMe Last Update Badge](https://badges.pufler.dev/updated/LordAssalt/LordAssalt)
+![Profile Views](https://komarev.com/ghpvc/?username=LordAssalt&style=flat)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/LordAssalt/LordAssalt/?color=white) -->
 
-Here are some ideas to get you started:
+## Welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a I year Master Degree Student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). 
+- 🤔 My works are mainly related to IoT field. Specifically, in this period I am working on Cloud-IoT solutions with a focus on Smart Homes and Arduino's projects. 
+
+### 📊 GitHub Statistics
+
+<!-- ![Gists Badge](https://badges.pufler.dev/gists/LordAssalt/?color=white) -->
+![Repos Badge](https://badges.pufler.dev/repos/LordAssalt/?color=white)
+![Commits Badge](https://badges.pufler.dev/commits/yearly/LordAssalt/?color=white)
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=LordAssalt&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=LordAssalt&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>
+
+- [Some Advance Stats about my GitHub Profile](https://gitstats.me/LordAssalt)
+- [My 2021 GitHub Skyline](https://skyline.github.com/LordAssalt/2021)
+
+### 📫 How to reach me
+
+If you are interested in my activities and you want to collaborate with me or provide me a feedback, feel free to write me!
+
+- [LinkedIn](https://www.linkedin.com/in/alexcarluccio/)
+- [Instagram](https://www.instagram.com/alex.carluccio/)
+- [GitHub](https://github.com/LordAssalt)
+- [Website](https://www.alexcarluccio.it)
+  
