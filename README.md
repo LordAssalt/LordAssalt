@@ -1,4 +1,4 @@
-# Alex Carluccio, Master Degree Student
+# Alex Carluccio
 
 ![ReadMe Last Update Badge](https://badges.pufler.dev/updated/LordAssalt/LordAssalt)
 ![Profile Views](https://komarev.com/ghpvc/?username=LordAssalt&style=flat)
