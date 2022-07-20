@@ -1,3 +1,5 @@
+<div align="center">
+
 # Alex Carluccio
 
 ![ReadMe Last Update Badge](https://badges.pufler.dev/updated/LordAssalt/LordAssalt)
@@ -31,3 +33,4 @@ If you are interested in my activities and you want to collaborate with me or pr
 - [GitHub](https://github.com/LordAssalt)
 - [Website](https://www.alexcarluccio.it)
   
+</div>
