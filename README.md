@@ -6,6 +6,8 @@
 
 ## Welcome to my GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img width="150px" src="./gif/IronManHello.gif" alt="IronManHello"/>
+
 - 🔭 I’m currently a 1° year Master Degree Student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). 
 - 🤔 My works are mainly related to IoT field. Specifically, in this period I am working on Cloud-IoT solutions with a focus on Smart Homes and Arduino's projects. 
 
