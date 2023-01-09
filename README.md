@@ -41,7 +41,7 @@ If you are interested in my activities and you want to collaborate with me or pr
 - [LinkedIn](https://www.linkedin.com/in/alexcarluccio/)
 - [Instagram](https://www.instagram.com/alex.carluccio/)
 - [GitHub](https://github.com/LordAssalt)
-- [Website](https://www.alexcarluccio.it)
+- [Website](https://alexcarluccio.it)
   
 
 
