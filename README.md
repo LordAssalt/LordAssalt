@@ -28,7 +28,7 @@
 </div>
 
 - [Some Advance Stats about my GitHub Profile](https://gitstats.me/LordAssalt)
-- [My 2021 GitHub Skyline](https://skyline.github.com/LordAssalt/2021)
+- [My 2021 GitHub Skyline](https://skyline.github.com/LordAssalt/2022)
 
 <div align="center">
 
