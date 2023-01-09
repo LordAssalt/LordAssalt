@@ -11,8 +11,8 @@
 
 </div>
 
-- 🔭 I’m currently a 1° year Master Degree Student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). 
-- 🤔 My works are mainly related to IoT field. Specifically, in this period I am working on Cloud-IoT solutions with a focus on Smart Homes and Arduino's projects. 
+- 🔭 I’m currently a 2° year Master Degree Student of the [Department of Control and Computer Engineering](https://www.dauin.polito.it/) at [Politecnico di Torino](https://www.polito.it/index.php?lang=en). 
+- 🤔 My works are mainly related to AI and IoT fields. Specifically, in this period I am working on PatchCore implementation with CLIP image encoder as backbone
 
 <div align="center">
 
