@@ -5,7 +5,7 @@
 <img width="150px" src="./gif/IronManHello.gif" alt="IronManHello"/>
 
 ## Welcome to my GitHub profile!
-![ReadMe Last Update Badge](https://badges.pufler.dev/updated/LordAssalt/LordAssalt)
+![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Profile Views](https://komarev.com/ghpvc/?username=LordAssalt&style=flat)
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/LordAssalt/LordAssalt/?color=white) -->
 
